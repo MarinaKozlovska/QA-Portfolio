@@ -1,2 +1,2 @@
-# QA-Portfolio
+# About me
 Dynamic IT professional with 4 years of experience in game development and customer support. Proven ability to identify and resolve complex software issues, ensuring top-quality customer experience. Skilled in troubleshooting and testing mobile and web applications. Rapid learner, eager to leverage extensive customer support experience and technical knowledge to drive the development of high-quality software products as a QA Engineer.
